@@ -1,0 +1,4 @@
+node_modules
+elm-stuff
+build/main.js
+build/style.css
